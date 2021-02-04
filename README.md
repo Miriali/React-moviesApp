@@ -1,4 +1,4 @@
-# React Movies App :baguette_bread: :open_file_folder:
+# React Movies App :movie_camera: :open_file_folder:
 
 Hello github friends! :octocat:
 
