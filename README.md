@@ -1,12 +1,45 @@
-# Getting Started with Create React App
+# React Movies App :baguette_bread: :open_file_folder:
+
+Hello github friends! :octocat:
+
+This is the code of a movie search application developed in reactjs, it provides you with the title, synopsis and rating that the movie whose name has been searched in the search bar. I developed it as a practice to improve my react skills.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Requirements
+Basic knowledge of:
+
+:star2: Javascript
+
+:star2: Reactjs
+
+:star2: Css
+
+:star2: Responsive web design
+
+
+### Screenshot :camera_flash:
+![](https://instagram.fccs3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/145334377_105880131528335_5452324248008073612_n.jpg?_nc_ht=instagram.fccs3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2Z7pK0QhXJgAX-WqUc5&tp=1&oh=7a1ffa5832571ba6484d1ed46c30fb3b&oe=6044F608&ig_cache_key=MjUwMTc1MjA4MjA5NzczOTUzNA%3D%3D.2)
+
+### Tools
+- [Visual Studio Code](https://code.visualstudio.com/) :desktop_computer:
+- [Coolors](https://coolors.co/) :paintbrush:
+- [Box-Shadow](https://codepen.io/sdthornton/pen/wBZdXq) :black_nib:
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/) :crayon:
+
+### Author :woman_technologist:
+[Miriali López Melean](https://github.com/Miriali) 
+
+### Stay In Touch :purple_heart:
+- [Codepen](https://codepen.io/your-work/) 
+- [Twitter](https://twitter.com/miricailopez)
+
+
+### Available Scripts 
 
 In the project directory, you can run:
 
-### `yarn start`
+#### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +47,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+#### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+#### `yarn build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,7 +62,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+#### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -39,32 +72,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
